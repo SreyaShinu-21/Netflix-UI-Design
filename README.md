@@ -66,7 +66,7 @@ This project focuses on creating a modern streaming platform interface with clea
 ---
 ## 🔗 Figma Prototype
 
-[View Interactive Prototype](https://www.figma.com/proto/tGyR3Kr1VZbUQ6kHokIqu0/Netflix?node-id=24-44&p=f&t=Sprr7eZYAEHk1NKY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A39)
+[View Interactive Prototype](https://www.figma.com/proto/tGyR3Kr1VZbUQ6kHokIqu0/Netflix?node-id=24-39&p=f&t=Sprr7eZYAEHk1NKY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A39)
 
 ## 👩‍💻 Author
 
