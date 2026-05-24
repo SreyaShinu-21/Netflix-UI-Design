@@ -64,9 +64,16 @@ This project focuses on creating a modern streaming platform interface with clea
 ![Search](images/search-screen.png)
 
 ---
+## 🔗 Figma Design File
+
+[View Figma Design](https://www.figma.com/design/tGyR3Kr1VZbUQ6kHokIqu0/Netflix?node-id=0-1&t=bfBWx6DCnTVEGvzg-1)
+
+---
 ## 🔗 Figma Prototype
 
 [View Interactive Prototype](https://www.figma.com/proto/tGyR3Kr1VZbUQ6kHokIqu0/Netflix?node-id=24-39&p=f&t=Sprr7eZYAEHk1NKY-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A39)
+
+---
 
 ## 👩‍💻 Author
 
